@@ -1,3 +1,5 @@
 git add .txt
 git commit -m "Mars and Venus"
 
+Venus is an awesome planet!!
+
