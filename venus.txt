@@ -1,0 +1,3 @@
+git add .txt
+git commit -m "Mars and Venus"
+
